@@ -1,0 +1,5 @@
+{
+  "name": "FourrièreGN",
+  "description": "Plateforme de localisation des véhicules mis en fourrière en Guinée.",
+  "requestFramePermissions": ["camera"]
+}
